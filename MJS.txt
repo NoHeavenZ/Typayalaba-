@@ -4,4 +4,8 @@ best idea!
 
 HAHA NEW BRANCH
 
+<<<<<<< HEAD
 Master`s bad idea.
+=======
+Trouble changes...
+>>>>>>> bad-update
