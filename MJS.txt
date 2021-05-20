@@ -2,6 +2,8 @@ Some message
 Yeahhhhh....
 best idea!
 
+HAHA NEW BRANCH
+AHHAHAHAHAHAHHAHAYHAHAHAHAHH 
 lol u died
 
 <<<<<<< HEAD
@@ -9,3 +11,5 @@ Master`s bad idea.
 =======
 Trouble changes...
 >>>>>>> bad-update
+
+
