@@ -2,10 +2,12 @@ Some message
 Yeahhhhh....
 best idea!
 
-HAHA NEW BRANCH
+AHHAHAHAHAHAHHAHAYHAHAHAHAHH 
 
 <<<<<<< HEAD
 Master`s bad idea.
 =======
 Trouble changes...
 >>>>>>> bad-update
+
+
